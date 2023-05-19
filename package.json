@@ -4,9 +4,7 @@
   "description": "Todo List API",
   "author": "Masis Karapetyan (Sirius MK)",
   "main": "server.js",
-  "engines": {
-    "node": "18.12"
-  },
+
   "private": true,
   "license": "ISC",
   "scripts": {
